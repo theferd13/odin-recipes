@@ -1,6 +1,7 @@
 # odin-recipes
 
-Initial Odin Project
+
+    Initial Odin Project
     1. Objectives
         -   Working with Basic HTML Syntax
         -   Creating Links and a Basic Folder Structure for HTML Sides
